@@ -23,4 +23,4 @@
 ### Games
 About | Links | Author | Version |
 | --- | --- | --- | --- |
-| Classic Snake Game | ... | [Rodrigo Vieira](https://github.com/rodrigoslayertech) | v0.1.0
+| Classic Snake Game | [Github](https://github.com/rodrigoslayertech/classic-snake-game) | [Rodrigo Vieira](https://github.com/rodrigoslayertech) | v0.1.0
