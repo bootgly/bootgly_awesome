@@ -1,1 +1,1 @@
-# Bootgly PHP Framework - Awesome
+# Bootgly - Awesome
