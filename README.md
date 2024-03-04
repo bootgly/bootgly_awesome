@@ -23,4 +23,5 @@
 ### Games
 About | Links | Author | Version |
 | --- | --- | --- | --- |
-| Classic Snake Game | [Github](https://github.com/rodrigoslayertech/classic-snake-game) | [Rodrigo Vieira](https://github.com/rodrigoslayertech) | v0.1.0
+| Classic Snake Game | [Github](https://github.com/rodrigoslayertech/classic-snake-game) | [Rodrigo Vieira](https://github.com/rodrigoslayertech) | v0.1.3
+| Tic-Tac-Toe Game | [Github](https://github.com/rodrigoslayertech/tic-tac-toe) | [Rodrigo Vieira](https://github.com/rodrigoslayertech) | v1.0.0
